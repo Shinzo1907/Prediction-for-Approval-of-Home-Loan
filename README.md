@@ -1,4 +1,4 @@
-# Home Loan Approval Prediction
+# Prediction for Approval of Home Loan
 
 ## Overview
 This project aims to predict the approval status of home loan applications using machine learning techniques. The goal is to create a model that can accurately classify whether a loan will be approved based on various applicant details.
